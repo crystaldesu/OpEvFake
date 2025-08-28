@@ -1,0 +1,1 @@
+If you want to run the scripts, you need to extract [bert-base-chinese](https://huggingface.co/google-bert/bert-base-chinese) to this directory.
